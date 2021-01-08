@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "db"
+		},
+		{
+			"path": "node_modules"
+		}
+	]
+}
